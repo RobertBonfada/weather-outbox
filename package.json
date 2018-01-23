@@ -1,0 +1,19 @@
+{
+  "name": "weather-outbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertBonfada/weather-outbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertBonfada/weather-outbox/issues"
+  },
+  "homepage": "https://github.com/RobertBonfada/weather-outbox#readme"
+}
