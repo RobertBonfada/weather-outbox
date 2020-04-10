@@ -1,4 +1,4 @@
-Weather App 🌤️ \
+## Weather App 🌤️ \
 Para executar o app:
 ```
 node app.js
